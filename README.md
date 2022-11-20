@@ -17,3 +17,6 @@ This is a simple example of how to use Socket.io with React Native.
 
 ## License
 MIT
+
+# Screenshot
+![image](https://user-images.githubusercontent.com/38187170/202878652-bc61293f-235e-4d0e-a9a8-f80da373b5ee.png)
